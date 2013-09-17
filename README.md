@@ -17,4 +17,5 @@ You need to add this in your AndroidMenfest.xml
 <receiver
 android:name="com.LocationLibrary.locations.receiver.LocationReceived"
 android:exported="true" >
-</receiver>```
+</receiver>
+```
